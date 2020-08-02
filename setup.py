@@ -6,3 +6,4 @@ setup(name='RaidBot',
       version='3.0',
       description='VK Raid Bot created by Victor-web-dot',
       executables=executables)
+
