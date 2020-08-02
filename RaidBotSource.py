@@ -21,3 +21,4 @@ if(botpass=='b523aqAPzE2JEgSUnQQ9MrwMDGbmpGwV'):
                         time.sleep(1.5)
 else:
     print('Бот заблокирован')
+    
